@@ -1,16 +1,17 @@
-# calculatorapp
+# Simple Flutter Calculator App
 
-A new Flutter project.
+A basic calculator app built using Flutter. This project demonstrates simple state management and user interaction with a clean and responsive UI.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Addition  
+- ➖ Subtraction  
+- ✖️ Multiplication  
+- ➗ Division  
+- 🎯 Percentage Calculation  
+- 🧼 Clear (C) and All Clear (AC) functions  
+- 🧮 Instant evaluation with "="
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
